@@ -1,0 +1,13 @@
+Choices egg
+Choices milk
+Costco ChickenBreast
+Walmart Yogurt
+Choices creamCheese
+SaveOnFoods Cheese
+Safeway pizza
+SaveOnFoods bread
+Walmart iceCream
+Choices shampoo
+Costco ribs
+SaveOnFoods grapes
+WholeFoods PumpkinPie
